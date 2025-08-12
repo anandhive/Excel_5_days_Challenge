@@ -1,0 +1,41 @@
+🚀 Excel 5 Days Challenge – Day 2: Formula Foundations 📊
+
+
+
+🎯 Goal for Today: Learn the 3 most important formulas in Excel that you’ll use every single day, plus one time-saving trick to apply them faster.
+
+
+
+🔹 The3 Formulas You’ll Actually Us
+
+1️⃣ SUM – Add up a range of numbers.
+
+ =SUM(A1:A10) → Adds all values from A1 to A10.
+
+
+
+2️⃣ AVERAGE – Find the mean of a range.
+
+ =AVERAGE(B1:B10) → Calculates the average in B1:B10.
+
+
+
+3️⃣ IF – Make decisions in your sheet.
+
+ =IF(C2>=50,"Pass","Fail") → Shows “Pass” if C2 is 50 or more, otherwise “Fail”.
+
+
+
+💡 Bonus Tip – AutoFill for Formulas
+
+Instead of typing formulas over and over:
+
+💫 Type your formula once
+
+💫 Hover over the small square (fill handle) at the bottom-right of the cell
+
+💫 Double-click to copy it down the entire column instantly
+
+
+
+#ExcelChallenge #ExcelTips #ExcelFormulas #Productivity #LearnExcel
