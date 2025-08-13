@@ -37,5 +37,3 @@ Instead of typing formulas over and over:
 💫 Double-click to copy it down the entire column instantly
 
 
-
-#ExcelChallenge #ExcelTips #ExcelFormulas #Productivity #LearnExcel
